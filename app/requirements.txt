@@ -1,0 +1,7 @@
+fastapi
+boto3
+requests
+python-jose
+pydantic[email,typing_extensions,dotenv]
+starlette
+python-dotenv
